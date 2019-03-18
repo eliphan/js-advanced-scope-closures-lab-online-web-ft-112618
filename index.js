@@ -1,9 +1,9 @@
+let driverId = 0
 
-class Driver() {
-  
-  return class {
+class Driver {
     constructor( name ) {
       this.id = ++driverId
       this.name = name
     }
-  }
+}
+  
