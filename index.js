@@ -1,4 +1,7 @@
-
+function produceDrivingRange( blockRange ) {
+  return function ( startingBlock, endingBlock ) {
+  }
+}
 
 function produceTipCalculator( percentage ) {
   return function ( rideFare ) {
